@@ -1,0 +1,4 @@
+nba_api
+scikit-learn
+pandas
+numpy
